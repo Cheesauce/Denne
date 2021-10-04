@@ -192,7 +192,8 @@ button:hover {
   font-family: sans-serif;
   font-weight: 900;
   color: white;
-  text-shadow:2px 2px rgb(1, 75, 75);;
+  text-shadow:2px 2px rgb(1, 75, 75);
+  padding-bottom:40px;
 }
 .submood {
   padding-bottom: px;
